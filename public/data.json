@@ -1,0 +1,121 @@
+{
+  "categories": [
+    { "name": "Все" },
+    { "name": "Море" },
+    { "name": "Горы" },
+    { "name": "Архитектура" },
+    { "name": "Города" }
+  ],
+  "collections": [
+    {
+      "category": 2,
+      "name": "Поход в горы",
+      "photos": [
+        "https://i.pinimg.com/originals/19/fc/fb/19fcfbb5debcb7d95a5f73a556a54b39.webp?nii=t",
+        "https://img.freepik.com/premium-photo/hikers-standing-snowcapped-mountains-against-sky_1048944-8540827.jpg?semt=ais_hybrid&w=740&q=80",
+        "https://img.freepik.com/free-photo/view-mountain-with-dreamy-aesthetic_23-2151700198.jpg",
+        "https://img.freepik.com/premium-photo/scenic-view-landscape-against-sky_1048944-30544556.jpg?semt=ais_hybrid"
+      ]
+    },
+    {
+      "category": 1,
+      "name": "Море (июнь)",
+      "photos": [
+        "https://static.vecteezy.com/system/resources/previews/007/233/800/non_2x/sea-beach-and-rocky-mountains-in-tropical-evening-photo.jpg",
+        "https://avatars.mds.yandex.net/i?id=e04c46af9f0a2dff8b890af1f3b4b81ec3d9a70e-10330973-images-thumbs&n=13",
+        "https://avatars.mds.yandex.net/i?id=2a0000019c4c454dee37a74ef9d5e3fcb577-1654998-fast-images&n=13",
+        "https://www.cronicabalear.es/access/public/img/noticias/upload/0_1746460108.jpg"
+      ]
+    },
+    {
+      "category": 3,
+      "name": "Поездка в Европу",
+      "photos": [
+        "https://sputnik.kz/img/656/29/6562912_0:0:4896:3264_600x0_80_0_1_ccdab713ec5fc28833a370f7de7d57a2.jpg",
+        "https://yesim.tech/_next/image/?url=https%3A%2F%2Fcms.yesim.app%2Fuploads%2Feurope_Charles_Bridgecover_144d7beed0.png&w=1920&q=75",
+        "https://img.freepik.com/premium-photo/buildings-by-canal-against-sky-city_1048944-28668753.jpg?semt=ais_hybrid&w=740&q=80",
+        "https://avatars.mds.yandex.net/i?id=2cfe78bcdfa543f2b469f85d36cb599ef38ac268-7554713-images-thumbs&n=13"
+      ]
+    },
+    {
+      "category": 3,
+      "name": "Идеальная архитектура",
+      "photos": [
+        "https://avatars.mds.yandex.net/i?id=4a0f8892fa7c77da9fd591d575bd3a7c_l-4576532-images-thumbs&n=13",
+        "https://img.freepik.com/free-photo/blending-futuristic-building-seamlessly-into-desert-landscape_23-2151248332.jpg?semt=ais_hybrid&w=740&q=80",
+        "https://img.freepik.com/premium-photo/low-angle-view-buildings-city_1048944-2120794.jpg?semt=ais_hybrid&w=740",
+        "https://img.freepik.com/free-photo/luxury-architecture-exterior-design_23-2151920966.jpg?semt=ais_hybrid&w=740&q=80"
+      ]
+    },
+    {
+      "category": 3,
+      "name": "Красивые здания",
+      "photos": [
+        "https://img.freepik.com/premium-photo/building-reims_1048944-30824695.jpg?semt=ais_hybrid&w=740",
+        "https://i.pinimg.com/originals/c2/4c/60/c24c603fdbfd10a08d87b11d69357c49.jpg",
+        "https://i.pinimg.com/originals/89/9c/56/899c565eaa038f93c38990f80d5a6a91.jpg",
+        "https://i.pinimg.com/736x/5f/55/a1/5f55a106d27129833b1e4e2b2f302021.jpg"
+      ]
+    },
+    {
+      "category": 4,
+      "name": "Путешествие по миру",
+      "photos": [
+        "https://i.pinimg.com/originals/01/c3/03/01c3035826d36b4379af941fa24277bf.jpg",
+        "https://i.pinimg.com/originals/53/59/22/535922824b2bd784a1fcd3f1b7046ba4.jpg",
+        "https://avatars.mds.yandex.net/i?id=b8219317c2beb477b453230b79bb43ef_l-4614378-images-thumbs&n=13",
+        "https://img.freepik.com/premium-photo/trees-forest_1048944-18050703.jpg?semt=ais_hybrid&w=740&q=80"
+      ]
+    },
+    {
+      "category": 2,
+      "name": "Путешествие куда-то",
+      "photos": [
+        "https://35photo.pro/photos_main/380/1903314.jpg",
+        "https://img.freepik.com/premium-photo/peaceful-forest-clearing-with-small-wooden-cabin-surrounded-by-tall-pines-smoke-rises-gently_868783-112872.jpg?semt=ais_hybrid&w=740",
+        "https://img.freepik.com/premium-photo/camping-trip-with-tents-pitched-wild-campfire-crackling-chairs-water-edge-lake-river-island-with-trees_1188164-2122.jpg",
+        "https://img.freepik.com/premium-photo/trees-forest-winter_1048944-5307059.jpg?semt=ais_hybrid&w=740"
+      ]
+    },
+    {
+      "category": 3,
+      "name": "Идеальная архитектура",
+      "photos": [
+        "https://avatars.mds.yandex.net/i?id=4a0f8892fa7c77da9fd591d575bd3a7c_l-4576532-images-thumbs&n=13",
+        "https://img.freepik.com/free-photo/blending-futuristic-building-seamlessly-into-desert-landscape_23-2151248332.jpg?semt=ais_hybrid&w=740&q=80",
+        "https://img.freepik.com/premium-photo/low-angle-view-buildings-city_1048944-2120794.jpg?semt=ais_hybrid&w=740",
+        "https://img.freepik.com/free-photo/luxury-architecture-exterior-design_23-2151920966.jpg?semt=ais_hybrid&w=740&q=80"
+      ]
+    },
+    {
+      "category": 3,
+      "name": "Архитектура центра",
+      "photos": [
+        "https://img.freepik.com/premium-photo/building-reims_1048944-30824695.jpg?semt=ais_hybrid&w=740",
+        "https://i.pinimg.com/originals/c2/4c/60/c24c603fdbfd10a08d87b11d69357c49.jpg",
+        "https://i.pinimg.com/originals/89/9c/56/899c565eaa038f93c38990f80d5a6a91.jpg",
+        "https://i.pinimg.com/736x/5f/55/a1/5f55a106d27129833b1e4e2b2f302021.jpg"
+      ]
+    },
+    {
+      "category": 4,
+      "name": "Любимый парк",
+      "photos": [
+        "https://i.pinimg.com/originals/01/c3/03/01c3035826d36b4379af941fa24277bf.jpg",
+        "https://i.pinimg.com/originals/53/59/22/535922824b2bd784a1fcd3f1b7046ba4.jpg",
+        "https://avatars.mds.yandex.net/i?id=b8219317c2beb477b453230b79bb43ef_l-4614378-images-thumbs&n=13",
+        "https://img.freepik.com/premium-photo/trees-forest_1048944-18050703.jpg?semt=ais_hybrid&w=740&q=80"
+      ]
+    },
+    {
+      "category": 2,
+      "name": "Поход на сопку",
+      "photos": [
+        "https://35photo.pro/photos_main/380/1903314.jpg",
+        "https://img.freepik.com/premium-photo/peaceful-forest-clearing-with-small-wooden-cabin-surrounded-by-tall-pines-smoke-rises-gently_868783-112872.jpg?semt=ais_hybrid&w=740",
+        "https://img.freepik.com/premium-photo/camping-trip-with-tents-pitched-wild-campfire-crackling-chairs-water-edge-lake-river-island-with-trees_1188164-2122.jpg",
+        "https://img.freepik.com/premium-photo/trees-forest-winter_1048944-5307059.jpg?semt=ais_hybrid&w=740"
+      ]
+    }
+  ]
+}
